@@ -3,4 +3,4 @@ This is enhanced zap!!
 
 
 
-I'm sure it has better feature than original zap :)
+I'm sure it has a better feature than the original zap :)
